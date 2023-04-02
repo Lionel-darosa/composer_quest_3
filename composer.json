@@ -1,0 +1,17 @@
+{
+    "name": "mimo1/composer2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Da Rosa Lionel",
+            "email": "lioneldarosa@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
